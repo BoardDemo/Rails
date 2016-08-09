@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.0'
+gem 'rails'
 gem 'httparty'
 gem 'uri_signer', :git => 'https://github.com/kissmetrics/uri_signer.git', :branch => 'nk/ruby-2.0'
 gem 'unicorn'
@@ -31,7 +31,7 @@ gem 'lograge', '~> 0.3'
 # in production environments by default.
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0'
+gem 'sass-rails'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
