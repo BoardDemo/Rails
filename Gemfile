@@ -1,8 +1,6 @@
 
 source 'https://rubygems.org'
 
-#SOHAILEEE
-568468456845864568
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.7'
