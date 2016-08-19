@@ -7,6 +7,7 @@ source 'https://rubygems.org'
 # O M G ...
 # LOOK AT ME MAKING THE CHANGE
 # w o w
+# I want to break free ! 
 
 gem 'rails', '4.1.7'
 # Use sqlite3 as the database for Active Record
