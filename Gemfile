@@ -2,12 +2,7 @@
 source 'https://rubygems.org'
 
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-# Lets make this change... now..
-# O M G ...
-# LOOK AT ME MAKING THE CHANGE
-# w o w
-# I want to break free ! 
+
 
 gem 'rails', '4.1.7'
 # Use sqlite3 as the database for Active Record
